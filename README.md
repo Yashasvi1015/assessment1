@@ -50,3 +50,13 @@ If all conditions (require(), assert(), and authorization check) pass successful
 ```
 getValue() Function: This function is marked as view, meaning it does not modify the blockchain state. It simply returns the current value stored in the value variable.
 
+## Authors
+
+Yashasvi
+[yashasvisharma846@gmail.com]
+[22BCS11802@cuchd.in]
+
+## License
+
+This project is licensed under the MIT License - see the License.md file for details.
+
